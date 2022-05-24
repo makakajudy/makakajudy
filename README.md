@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makakajudy
-- 👀 I’m interested in python programing,machine learning data analystics and anything data!
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software developing(py),machine learning data analystics and anything data!
+- 🌱 I’m currently learning python,js
 - 💞️ I’m looking to venture in python programming as a career
 - 📫 How to reach me here or via my email makakajudy@yahoo.com
 
